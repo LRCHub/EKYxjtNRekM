@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Heaven’s falling down",
+  "base_artist": "sana (sajou no hana)",
+  "createdAt": "2025-12-15T07:17:09.286569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heaven’s falling down",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/01_Heaven’s_falling_down_sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heaven’s falling down - English Ver.",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/02_Heaven’s_falling_down_-_English_Ver._sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heaven's falling down -English Ver.-",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/03_Heaven's_falling_down_-English_Ver.-_sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heaven's falling down",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/04_Heaven's_falling_down_sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heaven’s falling down -Dawning Ver.",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/05_Heaven’s_falling_down_-Dawning_Ver._sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heaven's falling down -Dawning Ver.",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/06_Heaven's_falling_down_-Dawning_Ver._sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heaven's Falling Down",
+      "artist": "Dawn of Destiny",
+      "has_synced": true,
+      "path": "select/07_Heaven's_Falling_Down_Dawn_of_Destiny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heaven’s falling down - Dawning Ver.",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/08_Heaven’s_falling_down_-_Dawning_Ver._sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heaven's falling down (English Ver.)",
+      "artist": "sana",
+      "has_synced": true,
+      "path": "select/09_Heaven's_falling_down_(English_Ver.)_sana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "﻿Heaven’s falling down",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/10_﻿Heaven’s_falling_down_sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "heaven’s falling down -dawning ver.",
+      "artist": "sana (sajou no hana)",
+      "has_synced": true,
+      "path": "select/11_heaven’s_falling_down_-dawning_ver._sana_(sajou_no_hana).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heaven's falling down",
+      "artist": "sana (sajou no hana)",
+      "has_synced": false,
+      "path": "select/pl_01_Heaven's_falling_down_sana_(sajou_no_hana).txt"
+    }
+  ]
+}
